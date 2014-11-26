@@ -1,0 +1,21 @@
+body {
+  padding-top: 50px;
+}
+.content {
+  padding: 20px 15px;
+  text-align: left;
+  font-family: 'Myriad Pro';
+}
+.form-inline .form-control {
+width: 256px;
+}
+.form-control {
+width: 350px;
+}
+#time{
+padding-top: 100px;
+font-family: 'Myriad Pro';
+font-size: 20px;
+text-align: right;
+color:gray;
+}
